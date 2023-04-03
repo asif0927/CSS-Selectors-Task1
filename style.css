@@ -1,0 +1,51 @@
+/*task-1 css kodlari*/
+.slice-2 h2{
+    background-color: yellow;
+    height: 30px;
+}
+span.dif-1{
+    border: 2px solid black;
+}
+span.dif-2{
+    border: 2px solid black;
+    background-color: red;
+}
+.task-1 p{
+    font-size: 23px;
+}
+.slice-3 span.diff-1{
+    background-color: green;
+}
+.task-1{
+    height: 891px;
+    width: 1027px;
+}
+/*2-ci task css-kodlari*/
+ul:nth-child(odd){
+    background-color: yellow;
+}
+p#title-1{
+   font-size: 29px;
+   color: red;
+   border: 5px solid blueviolet;
+}
+.div-list>div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 19px;
+}
+.div-list>div:first-child{
+    background-color: blue;
+}
+.div-list>div:nth-child(3),.div-list>div:last-child{
+    background-color: green;
+}
+.div-list>div:nth-child(4){
+    color: red;
+}
+a{
+    color:blue
+}
+.link-list>a:nth-child(2){
+    background-color: yellow;
+}
